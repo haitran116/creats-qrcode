@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKlKKkAvn1MhU1Yka6utSajgsqiXlbvjstJaeJREKOEWtGTQRyjRzbqdtV6cS8naCbbDnH8B+O+CL3fXp8z11g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\--Hai-Tran--\\source\\repos\\creat qr code\\creat qr code\\creat qr code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\--Hai-Tran--\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\--Hai-Tran--\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\--Hai-Tran--\\.nuget\\packages\\zxing.net\\0.10.0\\zxing.net.0.10.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ZXing.Net 0.10.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ZXing.Net",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

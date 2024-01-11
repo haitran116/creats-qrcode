@@ -1,0 +1,21 @@
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\creat qr code.exe
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\creat qr code.deps.json
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\creat qr code.runtimeconfig.json
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\creat qr code.dll
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\creat qr code.pdb
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\zxing.dll
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\zxing.presentation.dll
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.csproj.AssemblyReference.cache
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.AssemblyInfoInputs.cache
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.AssemblyInfo.cs
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.csproj.CoreCompileInputs.cache
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.csproj.CopyComplete
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.dll
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\refint\creat qr code.dll
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.pdb
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\creat qr code.genruntimeconfig.cache
+C:\Users\--Hai-Tran--\source\repos\creat qr code\creat qr code\obj\Debug\net6.0\ref\creat qr code.dll
